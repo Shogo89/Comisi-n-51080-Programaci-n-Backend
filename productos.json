@@ -1,0 +1,23 @@
+[
+     {
+          "nombre": "Earring for weeding",
+          "username": "silver1",
+          "precio": "300",
+          "stock": 4,
+          "id": 1
+     },
+     {
+          "nombre": "Earring for party",
+          "username": "silver2",
+          "precio": "400",
+          "stock": 5,
+          "id": 2
+     },
+     {
+          "nombre": "bracelet for party",
+          "username": "silver3",
+          "precio": "400",
+          "stock": 5,
+          "id": 3
+     }
+]

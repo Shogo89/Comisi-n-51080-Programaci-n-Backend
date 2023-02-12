@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actividad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shogo89/Comisi-n-51080-Programaci-n-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shogo89/Comisi-n-51080-Programaci-n-Backend/issues"
+  },
+  "homepage": "https://github.com/Shogo89/Comisi-n-51080-Programaci-n-Backend#readme"
+}
