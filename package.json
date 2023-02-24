@@ -1,7 +1,7 @@
 {
-  "name": "backend",
+  "name": "miproyecto",
   "version": "1.0.0",
-  "description": "",
+  "description": "proyecto de prueba",
   "main": "actividad.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,16 @@
     "url": "git+https://github.com/Shogo89/Comisi-n-51080-Programaci-n-Backend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Willians Ramirez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shogo89/Comisi-n-51080-Programaci-n-Backend/issues"
   },
-  "homepage": "https://github.com/Shogo89/Comisi-n-51080-Programaci-n-Backend#readme"
+  "homepage": "https://github.com/Shogo89/Comisi-n-51080-Programaci-n-Backend#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20"
+  }
 }
